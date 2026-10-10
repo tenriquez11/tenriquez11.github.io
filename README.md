@@ -11,7 +11,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 **Data:** LS 8 2 2018, spatial-admin_ucsb, 2024, ArcGIS Online
 
-**Method:** For this map, I shifted the colors to ones that would appear most distinct to the human eye. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image. This was done with the intent of making the lava in the area more visible and easily distinguishable from its surroundings. 
+**Method:** For this map, I shifted the colors to ones that would appear most distinct to the human eye. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image. I used the right side bar and edited these aspects in three sections: properties, styles, and effects. 
 
 **A design choice I made and why:** Since this data is primarily imaging and does not show numerical data, there are no labels, and no legend. Its purpose is to display the area of the eruption. 
 
@@ -25,7 +25,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 **Data:** COVID19_ZCTA, GGA_Admin, 2024, ArcGIS Online
 
-**Method:** For this map, I imported the data and adjusted its appearance. I 
+**Method:** For this map, I imported the data and adjusted how it appeared to viewers. I navigated the 
 
 **A design choice I made and why:**
 
