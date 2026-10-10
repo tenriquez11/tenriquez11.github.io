@@ -19,7 +19,7 @@ This map shows the volcano Kilauea 5 months after the initial eruption in March 
 
 ---
 ## COVID Outbreaks in New York City 2020
-This map shows the case rates of COVID-19 in New York City in 2020, separated by ZIP code. (COVIDoutbreaks_NE.png)
+This map shows the case rates of COVID-19 in New York City in 2020, separated by ZIP code. (images/COVIDoutbreaks_NE.png)
 
 **Question:** What areas of New York City harbored the most COVID-19 cases in 2020?
 
