@@ -1,9 +1,9 @@
 # Nova Enriquez
+
 I'm a second year student at Riverside City College, studying Environmental Science. I'm studying Geographical Information Systems, or GIS, to learn more about how data in an area is classified and how different groups and different aspects form connections and relationships. 
 ---
 ## Kilauea Eruption Event 2018
-!This map shows the volcano Kilauea 5 months after the initial eruption in March 2018. (images/KilaueaEruption_NE.png)
-
+This map shows the volcano Kilauea 5 months after the initial eruption in March 2018. (images/KilaueaEruption_NE.png) 
 *Interactive version, live as of September 2026: https://storymaps.arcgis.com/stories/0bd1cd9ff1424e498f4d28cbe07e22cd*
 
 **Question:** What did Mount Kilauea look like after the first initial eruption, and how much area did it cover?
@@ -18,7 +18,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 ---
 ## COVID Outbreaks in New York City 2020
-!This map shows the case rates of COVID-19 in New York City in 2020, separated by ZIP code. (images/COVIDoutbreaks_NE.png)
+This map shows the case rates of COVID-19 in New York City in 2020, separated by ZIP code. (images/COVIDoutbreaks_NE.png)
 
 **Question:** What areas of New York City harbored the most COVID-19 cases in 2020?
 
