@@ -33,7 +33,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 ---
 ## Data sources
-- LS 8 2 2018, spatial-admin_ucsb, 2024, https://www.arcgis.com/apps/mapviewer/index.html
+- LS 8 2 2018, spatial-admin_ucsb, 2024, https://www.arcgis.com/home/item.html?id=c250e0833c5541a5842fd31ba8d4ca47#overview
 - COVID19_ZCTA, GGA_Admin, 2024, 
   
 ## Where this is going
