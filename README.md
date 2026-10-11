@@ -34,7 +34,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 ---
 ## Data sources
 - LS 8 2 2018, spatial-admin_ucsb, 2024, https://tiledimageservices1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/LS_8_2_18/ImageServer
-- COVID19_ZCTA, GGA_Admin, 2024, https://services3.arcgis.com/HHsRcAgIU6SqBiQd/arcgis/rest/services/COVID19_ZCTA/FeatureServer
+- COVID19_ZCTA, GGA_Admin, 2024, https://arcg.is/0aWGWD1
   
 ## Where this is going
 By the end of this term, I plan to add a map I made that taught me something that holds the most significance and impact for myself, my education, and my academic journey. Since starting college and pursuing higher education, I have always made it a point to truly learn and educate myself on topics that I am unfamiliar with. I want my findings to speak on my character; I want to learn things that will help me understand the world a little bit more. Education has always held great importance in my life, and I want what I learn to reflect that. I want to prove to myself that I can overcome obstacles, that I can pick myself up and keep going, and that I am capable of intense focus and dedication; that is why I will succeed.
