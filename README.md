@@ -11,7 +11,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 **Data:** LS 8 2 2018, spatial-admin_ucsb, 2024, ArcGIS Online
 
-**Method:** For this map, I shifted the initial colors to ones that would appear most distinct to the human eye. At first, because this map appears very dark, it can be difficult to navigate, or even understand what one is looking at. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image. I used the right side bar and edited these aspects in two sections: styles and effects. In the styles section, I changed red to band 7, green to band 5, and blue to band 4. Then in the effects section, I set the brightness to 95 and the contrast to 70. 
+**Method:** For this map, I shifted the initial colors to ones that would appear most distinct to the human eye; this map appears very dark, and it can be difficult to navigate, or even understand what one is looking at. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image, and used the right side bar and edited these aspects in two sections: styles and effects. In the styles section, I changed red to band 7, green to band 5, and blue to band 4; in the effects section, I set the brightness to 95 and the contrast to 70. 
 
 **A design choice I made and why:** Since this data is primarily imaging and does not show numerical data, there are no labels, and no legend. Its purpose is to display the area of the eruption. 
 
