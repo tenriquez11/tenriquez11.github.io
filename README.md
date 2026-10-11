@@ -11,11 +11,11 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 
 **Data:** LS 8 2 2018, spatial-admin_ucsb, 2024, ArcGIS Online
 
-**Method:** For this map, I shifted the colors to ones that would appear most distinct to the human eye. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image. I used the right side bar and edited these aspects in three sections: properties, styles, and effects. 
+**Method:** For this map, I shifted the initial colors to ones that would appear most distinct to the human eye. At first, because this map appears very dark, it can be difficult to navigate, or even understand what one is looking at. I rearranged the red, blue, and green hues as well as the brightness and contrast of the image. I used the right side bar and edited these aspects in two sections: styles and effects. In the styles section, I changed red to band 7, green to band 5, and blue to band 4. Then in the effects section, I set the brightness to 95 and the contrast to 70. 
 
 **A design choice I made and why:** Since this data is primarily imaging and does not show numerical data, there are no labels, and no legend. Its purpose is to display the area of the eruption. 
 
-**A limitation of this map:** This map is unable to provide a direction; there is no compass providing north, south, east, or west on the map. 
+**A limitation of this map:** This map is unable to provide a direction; there is no compass providing north, south, east, or west on the map. It is a purely visual map with little regard for direction.
 
 ---
 ## COVID Outbreaks in New York City 2020
@@ -34,7 +34,7 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 ---
 ## Data sources
 - LS 8 2 2018, spatial-admin_ucsb, 2024, https://www.arcgis.com/home/item.html?id=c250e0833c5541a5842fd31ba8d4ca47#overview
-- COVID19_ZCTA, GGA_Admin, 2024, 
+- COVID19_ZCTA, GGA_Admin, 2024, https://www.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d&sublayer=1#overview
   
 ## Where this is going
 By the end of this term, I plan to add a map I made that taught me something that holds the most significance and impact for myself, my education, and my academic journey. Since starting college and pursuing higher education, I have always made it a point to truly learn and educate myself on topics that I am unfamiliar with. I want my findings to speak on my character; I want to learn things that will help me understand the world a little bit more. Education has always held great importance in my life, and I want what I learn to reflect that. I want to prove to myself that I can overcome obstacles, that I can pick myself up and keep going, and that I am capable of intense focus and dedication; that is why I will succeed.
