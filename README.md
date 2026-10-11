@@ -21,20 +21,20 @@ I'm a second year student at Riverside City College, studying Environmental Scie
 ## COVID Outbreaks in New York City 2020
 ![This map shows the case rates of COVID-19 in New York City in 2020, separated by ZIP code.](images/COVIDoutbreaks_NE.png)
 
-**Question:** What areas of New York City harbored the most COVID-19 cases in 2020?
+**Question:** What areas of New York City had the highest rates of COVID-19 cases in 2020?
 
 **Data:** COVID19_ZCTA, GGA_Admin, 2024, ArcGIS Online
 
-**Method:** For this map, I imported the data and adjusted how it appeared to viewers. I navigated the 
+**Method:** For this map, I imported the data and adjusted how it appeared to viewers. I navigated the symbology of the layer to change the data's appearance to what is shown here. I ensured that the different classes were separated by differing values in a single hue, and that the data followed the natural border of each ZIP code.
 
-**A design choice I made and why:**
+**A design choice I made and why:** I chose to use natural breaks because the data already classifies the information by ZIP code, so I found that matching the colored data to its rightful ZIP code made the map more cohesive and easy to comprehend.
 
-**A limitation of this map:**
+**A limitation of this map:** This map is unable to provide the gender or age of the individuals within the data, only the rate numbers of COVID-19 cases and where they are located in New York City. The information given is very broad rather than very specific.
 
 ---
 ## Data sources
-- [Dataset name, publisher, year, URL]
-- [Dataset name, publisher, year, URL]
+- LS 8 2 2018, spatial-admin_ucsb, 2024, https://tiledimageservices1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/LS_8_2_18/ImageServer
+- COVID19_ZCTA, GGA_Admin, 2024, https://services3.arcgis.com/HHsRcAgIU6SqBiQd/arcgis/rest/services/COVID19_ZCTA/FeatureServer
+  
 ## Where this is going
-[One paragraph: what you plan to add to this portfolio by the end
-of the term, and what you want it to say about you.]
+By the end of this term, I plan to add a map I made that taught me something that holds the most significance and impact for myself, my education, and my academic journey. Since starting college and pursuing higher education, I have always made it a point to truly learn and educate myself on topics that I am unfamiliar with. I want my findings to speak on my character; I want to learn things that will help me understand the world a little bit more. Education has always held great importance in my life, and I want what I learn to reflect that. I want to prove to myself that I can overcome obstacles, that I can pick myself up and keep going, and that I am capable of intense focus and dedication; that is why I will succeed.
